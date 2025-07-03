@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
